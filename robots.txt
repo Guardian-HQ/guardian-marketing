@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://guardian.example.com/sitemap.xml
